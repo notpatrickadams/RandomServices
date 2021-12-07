@@ -2,7 +2,7 @@
 
 Here's where I put random `.service` files
 
-## OpenRGB
+## OpenRGB 🌈
 
 Starts the OpenRGB AppImage in server mode instead of standalone. In standalone, I have to wait a few extra seconds for the colors to change if I use a profile.
 
