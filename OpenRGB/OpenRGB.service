@@ -1,0 +1,11 @@
+[Unit]
+Description=OpenRGB Server
+
+[Service]
+Type=idle
+User={ your user here }
+Group={ your group here }
+ExecStart=/usr/local/bin/OpenRGB.AppImage --server
+
+[Install]
+WantedBy=default.target
